@@ -1,27 +1,3 @@
-
-generate a image for the ai /ml ds , data analysis and so on 
-
-Edit
-
-
-Edited image
-generate a professional readme file for this also
-
-Creating image
-
-generate the file not image 
-
-Done. I created a professional README.md covering AI/ML, Data Science, Data Analysis, Deep Learning, Generative AI, RAG, tools, workflow, project structure, evaluation metrics, and applications.
-
- 
-
-
-
-Library
-/
-README_AI_ML_Data_Science.md
-
-
 AI / ML, Data Science & Data Analysis
 <p align="center"> <img src="img.png" alt="AI ML Data Science and Data Analysis" width="100%"> </p>
 
